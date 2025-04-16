@@ -61,7 +61,7 @@ function App() {
         {/* Hero Section */}
         <div className="relative mb-12 rounded-2xl overflow-hidden shadow-2xl">
           <img
-            src="src/aids.jpg"
+            src="aids.jpg"
             alt="AI & DS Department Farewell Group Photo"
             className="w-full h-[500px] object-cover"
           />
